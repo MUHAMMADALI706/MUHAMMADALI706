@@ -30,7 +30,6 @@ OSINT and cyber threat intelligence platform involving search, enrichment, corre
 
 **Technologies:** Python, FastAPI, Angular, Elasticsearch, MongoDB, Redis
 
-> Add a public project link only if you are authorized to share the code or a public-facing project page.
 
 ### Cross-Platform Identity Resolution
 Fuzzy matching and scoring workflows for linking identities across web platforms.
@@ -48,9 +47,7 @@ Investigation workspace for evidence organization, attachments, and integrity ve
 **Technologies:** Angular, MongoDB
 
 ### Strength Clan Fitness Tracker
-Fitness tracking application developed for a client and published on Google Play.
-
-> Add a public app or repository link if available and approved for sharing.
+Fitness tracking application developed for a client and publish
 
 ## Education
 
