@@ -1,90 +1,47 @@
-# Hi, I'm Muhammad Ali 👋
+Hi, I'm Muhammad Ali 👋
+Python Full Stack Developer | Backend Engineering
+I build backend services and full-stack applications with Python, FastAPI, and Angular. My work focuses on API development, data-intensive systems, integrations, and secure application architecture.
+- 🔭 Currently working on Python/FastAPI services and full-stack applications
+- 🧰 Core stack: Python, FastAPI, Angular, TypeScript, Elasticsearch, MongoDB, Redis
+- 🔐 Interests: backend architecture, application security, cybersecurity, and scalable search
+- 📍 Lahore, Pakistan
+- 💼 LinkedIn: muhammadali-python-developer
+Technical Skills
+Backend: Python, FastAPI, Starlette, REST APIs, WebSockets, Pydantic, microservices
 
-### Python Full Stack Developer | Backend Engineer
+Frontend: Angular, TypeScript, JavaScript, RxJS, Tailwind CSS
 
-I am a Python Full Stack Developer with 5 years of experience building scalable backend systems, REST APIs, WebSocket services, and modern web applications.
+Databases & Search: Elasticsearch, MongoDB, ArangoDB, Redis, SQL
 
-I specialize in Python, FastAPI, Angular, API integrations, distributed systems, and database architecture.
+Security: JWT, TOTP/2FA, RBAC, multi-tenancy, AES encryption
 
-Currently working on backend engineering and cyber threat intelligence solutions.
+Testing & Tools: Pytest, Cypress, Playwright, Docker, Git, GitHub
+Selected Work
+Orion Intelligence
+OSINT and cyber threat intelligence platform involving search, enrichment, correlation, and investigation workflows.
 
-### 🚀 Technical Skills
+Technologies: Python, FastAPI, Angular, Elasticsearch, MongoDB, Redis
+Add a public project link only if you are authorized to share the code or a public-facing project page.
 
-**Backend Development**
-- Python
-- FastAPI
-- Starlette
-- REST APIs
-- WebSockets
-- Microservices
-- Pydantic
+Cross-Platform Identity Resolution
+Fuzzy matching and scoring workflows for linking identities across web platforms.
 
-**Frontend Development**
-- Angular
-- TypeScript
-- JavaScript
-- RxJS
-- Tailwind CSS
+Technologies: Python, RapidFuzz
+Consolidated Search Engine
+Unified search and aggregation across multiple intelligence sources.
 
-**Databases**
-- Elasticsearch
-- MongoDB
-- ArangoDB
-- Redis
-- SQL
+Technologies: Elasticsearch, FastAPI
+Investigation Case Manager
+Investigation workspace for evidence organization, attachments, and integrity verification.
 
-**Security & Authentication**
-- JWT
-- OAuth concepts
-- TOTP / 2FA
-- RBAC
-- Multi-tenancy
-- AES Encryption
+Technologies: Angular, MongoDB
+Strength Clan Fitness Tracker
+Fitness tracking application developed for a client and published on Google Play.
+Add a public app or repository link if available and approved for sharing.
 
-**Tools & Technologies**
-- Git & GitHub
-- Docker
-- Pytest
-- Cypress
-- Playwright
-- Stripe API
-
-### 💼 Featured Projects
-
-**1. Orion Intelligence**
-- OSINT and Cyber Threat Intelligence Platform
-- Large-scale breach search and intelligence aggregation
-- FastAPI, Angular, Elasticsearch, MongoDB and Redis
-
-**2. Cross-Platform Identity Resolution Engine**
-- Identity matching and fuzzy search
-- RapidFuzz and image similarity
-
-**3. Consolidated Search Engine**
-- Unified intelligence search
-- Elasticsearch and FastAPI
-
-**4. Investigation Case Manager**
-- Evidence management and investigation workflows
-- Angular and MongoDB
-
-**5. Strength Clan Fitness Tracker**
-- Fitness tracking application
-- Backend API and application development
-
-### 🎓 Education
-
-- MS Cyber Security — FAST NUCES (2026–2028, In Progress)
+Education
+- MS Cyber Security — FAST NUCES, Lahore (2026–2028, in progress)
 - BS Information Technology — Bahria University (2019–2023)
-
-### 📊 GitHub
-
-I enjoy building scalable applications, solving backend engineering problems, and developing secure software systems.
-
-### 🤝 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/muhammadali-python-developer/
-- Portfolio: https://orionintelligence.org
-- GitHub: https://github.com/MUHAMMADALI706
-
-**Let's build something impactful! 🚀**
+Connect
+- LinkedIn
+- GitHub
